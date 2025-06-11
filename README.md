@@ -1,4 +1,4 @@
-# M²Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes
+# M2Diffuser: Diffusion-based Trajectory Optimization for Mobile Manipulation in 3D Scenes
 
 **IEEE Transactions on Pattern Analysis and Machine Intelligence (T-PAMI) 2025**
 
